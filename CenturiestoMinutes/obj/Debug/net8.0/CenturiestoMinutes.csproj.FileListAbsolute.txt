@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\bin\Debug\net8.0\CenturiestoMinutes.exe
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\bin\Debug\net8.0\CenturiestoMinutes.deps.json
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\bin\Debug\net8.0\CenturiestoMinutes.runtimeconfig.json
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\bin\Debug\net8.0\CenturiestoMinutes.dll
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\bin\Debug\net8.0\CenturiestoMinutes.pdb
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.dll
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\refint\CenturiestoMinutes.dll
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.pdb
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\CenturiestoMinutes.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\CenturiestoMinutes\CenturiestoMinutes\obj\Debug\net8.0\ref\CenturiestoMinutes.dll
